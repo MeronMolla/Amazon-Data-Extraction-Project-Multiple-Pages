@@ -1,2 +1,5 @@
-# Data analytics portfolio project
-This project implements Python web scraping tools to extract "data science books" information such as book titles, authors, reviews, prices, and image URL links to analyze correlation of columens and give informative insights to users. Collected data has been stored in CSV and JSON format for future use or advanced analysis.
+# Data analytics portfolio projects and Resume
+In this repository, different data analytics projects are implemented, such as:
+      Amazon Data Extraction (Multiple Pages) using Python scrappy
+      Africa Covid-19 Dashboard Using Power BI and 
+      Walmart Retail Analytics Dashboard using Microsoft Power BI. 
